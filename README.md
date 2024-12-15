@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![MasterHead](https://tenor.com/view/stewie-dance-dancing-family-guy-gif-21521044)](https://github.com/arnab-mkj)
 <!--
 **arnab-mkj/arnab-mkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align="right" alt="Coding" width="400" src="(https://tenor.com/view/stewie-dance-dancing-family-guy-gif-21521044)">
+  <img align="right" alt="Coding" width="400" src="https://tenor.com/view/stewie-dance-dancing-family-guy-gif-21521044">
