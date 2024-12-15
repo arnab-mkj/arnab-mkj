@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align="right" alt="Coding" width="400" src="https://tenor.com/view/stewie-dance-dancing-family-guy-gif-21521044">
+  <img align="right" alt="Coding" width="400" src="(https://tenor.com/view/stewie-dance-dancing-family-guy-gif-21521044)">
