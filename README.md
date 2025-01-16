@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Dancing Stewie](https://github.com/arnab-mkj/arnab-mkj/blob/main/stewie-dance.gif)
+![Dancing Stewie](https://github.com/arnab-mkj/arnab-mkj/blob/main/Despicable%20Me%20Lol%20GIF.gif)
 <!--
 **arnab-mkj/arnab-mkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
